@@ -9,14 +9,13 @@ vgsales = pd.read_csv('data/vgsales.csv')
 naTotalSales = vgsales['NA_Sales'].sum()
 euTotalSales = vgsales['EU_Sales'].sum()
 jpTotalSales = vgsales['JP_Sales'].sum()
-globalTotalSales = vgsales['Global_Sales'].sum()
 otherTotalSales = vgsales['Other_Sales'].sum()
 
-x_values = ['N.A','E.U','JP', 'Other']
+x_values = ['N.A','E.U','JP','Other']
 y_values = [round(naTotalSales,2),round(euTotalSales,2),
             round(jpTotalSales,2),round(otherTotalSales,2)]
 
-color = ['lightblue', 'blue', 'purple', 'red', 'black']
+color = ['lightblue', 'blue', 'purple', 'red']
 plt.bar(x_values, y_values, width = 0.5, color = color, align='center')
 plt.xlabel("Regions")
 plt.ylabel("Total (Millions)")
