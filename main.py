@@ -12,10 +12,9 @@ jpTotalSales = vgsales['JP_Sales'].sum()
 globalTotalSales = vgsales['Global_Sales'].sum()
 otherTotalSales = vgsales['Other_Sales'].sum()
 
-x_values = ['N.A','E.U','JP','Global', 'Other']
+x_values = ['N.A','E.U','JP', 'Other']
 y_values = [round(naTotalSales,2),round(euTotalSales,2),
-            round(jpTotalSales,2),round(globalTotalSales,2),
-            round(otherTotalSales,2)]
+            round(jpTotalSales,2),round(otherTotalSales,2)]
 
 color = ['lightblue', 'blue', 'purple', 'red', 'black']
 plt.bar(x_values, y_values, width = 0.5, color = color, align='center')
