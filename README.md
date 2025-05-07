@@ -13,6 +13,9 @@ dataset with a breakdown of sales by region and genre.  <p>
 <img width="865" alt="Screenshot 2025-05-07 at 3 31 42 PM" src="https://github.com/user-attachments/assets/408055db-988f-47d7-b433-16f5e7a455f5" />
 
 **3. Excel Analysis**
-
+<p>For my excel analysis I created a pivot table that displayed the different regions as columns
+and genres as rows. From this we can see how much a particular genre sold and in which region it was most successful.
+Using sum I calculated the total sales per genre and region. From this table I was able to create a bar chart
+showing the number of sales per genre regardless of region.</p>
 <img width="865" alt="Screenshot 2025-05-07 at 3 59 35 PM" src="https://github.com/user-attachments/assets/4e74b89a-4df7-44cb-bcc7-b1d2afd422cf" />
 
