@@ -4,23 +4,17 @@ import pandas as pd # imports the pandas library
 vgsales = pd.read_csv('vgsales.csv')
 
 # Next 5 lines assigns the individual columns to different variables
-NA_sales = vgsales['NA_Sales']
-JP_sales = vgsales['JP_Sales']
-EU_sales = vgsales['EU_Sales']
-Other_sales = vgsales['Other_Sales']
-Global_sales = vgsales['Global_Sales']
+naTotalSales = vgsales['NA_Sales'].sum()
+euTotalSales = vgsales['EU_Sales'].sum()
+jpTotalSales = vgsales['JP_Sales'].sum()
+globalTotalSales = vgsales['Global_Sales'].sum()
+otherTotalSales = vgsales['Other_Sales'].sum()
 
-# Creates a list that contains the sums of the individual regional sales
+# # Creates a list that contains the sums of the individual regional sales
 # Uses string.format() to store only up to the second decimal place
-sumByRegion = ["{:.2f}".format(NA_sales.sum()),"{:.2f}".format(JP_sales.sum()),
-               "{:.2f}".format(EU_sales.sum()),"{:.2f}".format(Other_sales.sum()),
-               "{:.2f}".format(Global_sales.sum())] 
+sumByRegion = [naTotalSales,euTotalSales,jpTotalSales,globalTotalSales,otherTotalSales] 
 
 total = 0 # Initialize and assigns total to 0
 
-# for loop to find the total sum of all regional sales
-for i in sumByRegion:
-    # converts the string i into a float and then an int in order to compute
-    total+= int(float(i))
-print(total)
+print(sum(sumByRegion))
 
