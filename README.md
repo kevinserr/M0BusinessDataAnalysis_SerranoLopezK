@@ -19,3 +19,8 @@ Using sum I calculated the total sales per genre and region. From this table I w
 showing the number of sales per genre regardless of region.</p>
 <img width="865" alt="Screenshot 2025-05-07 at 3 59 35 PM" src="https://github.com/user-attachments/assets/4e74b89a-4df7-44cb-bcc7-b1d2afd422cf" />
 
+**4. Python Analysis**
+<p>For the python analysis I used pandas to open the csv file and turn it into a DataFrame.
+With this DataFrame I'm  able to show the total sales per region. Using the mathlib library I was able to generate a bar graph showing
+the sales by region. </p>
+
