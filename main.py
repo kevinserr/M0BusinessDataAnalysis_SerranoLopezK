@@ -12,15 +12,13 @@ Global_sales = vgsales['Global_Sales']
 
 # Creates a list that contains the sums of the individual regional sales
 # Uses string.format() to store only up to the second decimal place
-sumByRegion = ["{:.2f}".format(NA_sales.sum()),"{:.2f}".format(JP_sales.sum()),
-               "{:.2f}".format(EU_sales.sum()),"{:.2f}".format(Other_sales.sum()),
-               "{:.2f}".format(Global_sales.sum())] 
+sumByRegion = [NA_sales.sum(), JP_sales.sum(),EU_sales.sum(),Other_sales.sum(),Global_sales.sum()] 
 
 total = 0 # Initialize and assigns total to 0
 
-# for loop to find the total sum of all regional sales
 for i in sumByRegion:
-    # converts the string i into a float and then an int in order to compute
-    total+= int(float(i))
+    total+=i
+
+    
 print(total)
 
