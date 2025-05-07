@@ -15,6 +15,14 @@ x_values = ['N.A','E.U','JP','Other']
 y_values = [round(naTotalSales,2),round(euTotalSales,2),
             round(jpTotalSales,2),round(otherTotalSales,2)]
 
+df = pd.DataFrame({'N.A': [naTotalSales],
+                   'E.U': [euTotalSales],
+                   'JP': [jpTotalSales],
+                   'Other': [otherTotalSales]},
+                   index=['Total Sales:'])
+
+print(df)
+
 color = ['lightblue', 'blue', 'purple', 'red']
 plt.bar(x_values, y_values, width = 0.5, color = color, align='center')
 plt.xlabel("Regions")
