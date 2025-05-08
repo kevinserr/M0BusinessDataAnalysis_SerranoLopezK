@@ -34,7 +34,7 @@ by region. All of this this is shown below.
 <p><b>Bar Graph using matplotlib:</b></p>
 
 <img src="images/pythonBar.png" alt="bar graph" width="865"/>
-**5. Data Types:** 
+<b>5. Data Types :</b> 
 <p>Most of my data types are numeric and quantitative. Since the sales are in decimals, it would be considered
 as continous data. </p>
 
