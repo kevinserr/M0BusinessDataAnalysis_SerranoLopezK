@@ -39,12 +39,12 @@ by region. All of this this is shown below.
 
 <img src="images/pythonBar.png" alt="bar graph" width="865"/>
 <b>5. Data Types :</b> 
-<p>Most of my data types are numeric and quantitative. Since the sales are in decimals, it would be considered
-as continous data. My data was pulled from  </p>
+Most of my data types are numeric and quantitative. Since the sales are in decimals, it would be considered
+as continous data. My data was pulled from [Kaggle](https://www.kaggle.com/datasets/anandshaw2001/video-game-sales) 
 
 **6. Conclusion** 
-<p> Moving forward I would like to explore the corelation between the genres with the most sales and crimes in the region. 
-  For this I would need an additional data set and a way to directly compare the two sets. </p>
+Moving forward I would like to explore the corelation between the genres with the most sales and crimes in the region. 
+  For this I would need an additional data set and a way to directly compare the two sets. 
 <b>Three Things I learned</b>
 <p>
   * How git works remotely and the importance of making sure I am only making changes in one place
