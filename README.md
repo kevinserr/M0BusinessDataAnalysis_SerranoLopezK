@@ -40,7 +40,7 @@ by region. All of this this is shown below.
 <img src="images/pythonBar.png" alt="bar graph" width="865"/>
 <b>5. Data Types :</b> 
 Text Most of my data types are numeric and quantitative. Since the sales are in decimals, it would be considered
-as continous data. My data was pulled from [Kaggle](https://www.kaggle.com/datasets/anandshaw2001/video-game-sales) text
+as continous data. My data was pulled from ![Kaggle](https://www.kaggle.com/datasets/anandshaw2001/video-game-sales) text
 
 **6. Conclusion** 
 Moving forward I would like to explore the corelation between the genres with the most sales and crimes in the region. 
