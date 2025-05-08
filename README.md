@@ -23,7 +23,8 @@ showing the number of sales per genre regardless of region.</p>
 <p>For the python analysis I used pandas to open the csv file and turn it into a DataFrame.
 With this DataFrame I'm  able to show the total sales per region. Using the mathlib library I was able to generate a bar graph showing
 the sales by region. </p>
-<img width="865" alt="Screenshot 2025-05-07 at 4 36 58 PM" src="https://github.com/user-attachments/assets/65e5a1b3-d191-4b63-9c30-a02c048a27cd" />
+<img width="865" alt="Screenshot 2025-05-08 at 3 48 20 AM" src="https://github.com/user-attachments/assets/a8a30ff3-37b4-42fe-8e80-c8fe0fe72c53" />
+
 
 
 
