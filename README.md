@@ -27,6 +27,9 @@ the sales by region. </p>
 
 <p><b>Bar Graph using matplotlib:</b></p>
 
+<img src="images/pythonBar.png" alt="bar graph" width="865"/>
+
+
 
 
 
