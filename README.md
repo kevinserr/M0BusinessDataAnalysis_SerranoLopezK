@@ -10,7 +10,8 @@ dataset with a breakdown of sales by region and genre.  <p>
 <p>What countries/regions should we focus on? What genre of games should we focus on?<p>
 
 **2. Data Life Cycle** <p><p>
-<img width="865" alt="Screenshot 2025-05-07 at 3 31 42 PM" src="https://github.com/user-attachments/assets/408055db-988f-47d7-b433-16f5e7a455f5" />
+<img width="865" alt="Screenshot 2025-05-08 at 10 56 16 AM" src="https://github.com/user-attachments/assets/54974092-7531-4f77-9796-577bc949adce" />
+
 
 **3. Excel Analysis**
 <p>For my excel analysis I created a pivot table that displayed the different regions as columns
