@@ -34,4 +34,4 @@ color = ['lightblue', 'blue', 'purple', 'red']
 plt.bar(x_values, y_values, width = 0.5, color = color, align='center')
 plt.xlabel("Regions")
 plt.ylabel("Total (Millions)")
-#plt.show()
+plt.show()
