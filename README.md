@@ -40,7 +40,8 @@ by region. All of this this is shown below.
 <img src="images/pythonBar.png" alt="bar graph" width="865"/>
 <b>5. Data Types :</b> 
 Most of my data types are numeric and quantitative. Since the sales are in decimals, it would be considered
-as continous data. My data was pulled from <a href="https://www.kaggle.com/datasets/anandshaw2001/video-game-sales)">Kaggle</a>
+as continous data. My data was pulled from <a href="https://www.kaggle.com/datasets/anandshaw2001/video-game-sales)">Kaggle</a>. The 
+data has columns for the year, publisher, genre and how much it sold in different regions. It had about 16,000 entries and the years range from 1980 to 2020. Some entries under Year and Publisher were unknown but since its irrevelant to my questions I left the data as is. 
 
 **6. Conclusion** 
 Moving forward I would like to explore the corelation between the genres with the most sales and crimes in the region. 
