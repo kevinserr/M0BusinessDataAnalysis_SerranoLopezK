@@ -40,7 +40,7 @@ by region. All of this this is shown below.
   For this I would need an additional data set and a way to directly compare the two sets. </p>
 <b>Three Things I learned</b>
 <p>
-  * Got git works remotely and the importance of making sure I am only making changes in one place
+  * How git works remotely and the importance of making sure I am only making changes in one place
   <br>* How to use matplotlib to create graphics
   <br>* How to use pandas to manipulate data from a csv file
 </p>
