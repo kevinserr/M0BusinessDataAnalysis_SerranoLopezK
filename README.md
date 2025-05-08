@@ -25,6 +25,9 @@ With this DataFrame I'm  able to show the total sales per region. Using the math
 the sales by region. </p>
 <img width="865" alt="Screenshot 2025-05-08 at 3 48 20 AM" src="https://github.com/user-attachments/assets/a8a30ff3-37b4-42fe-8e80-c8fe0fe72c53" />
 
+<p><b>Bar Graph using matplotlib:</b></p>
+
+
 
 
 
