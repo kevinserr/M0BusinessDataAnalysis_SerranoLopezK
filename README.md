@@ -23,9 +23,11 @@ showing the number of sales per genre regardless of region.</p>
 <img width="717" alt="Screenshot 2025-05-08 at 4 34 06 AM" src="https://github.com/user-attachments/assets/8cd66ce5-5183-4d1b-b0e6-bca1d362cb50" />
 
 **4. Python Analysis**
-<p>Using panda I was able to print the first 5 rows. I was also able to get the data type for each column using pandas built in dtypes.
-Using pandas sum() I was able to get the sum of a specific column. With this new total I created a new dataframe that contained the 5 regions
-as columns and the total sales as a row. All of this this is shown below.
+<p>Using pandas I was able to print the first 5 rows. I was also got the data type for each column using pandas built in dtypes.
+Using pandas sum() I got the sum of a specific column. In my case I wanted the sum of each regions sales. 
+With this new total I created a new dataframe that contained the 5 regions
+as columns and the total sales as a row. Lastly using matplotlib I created a bar graph that shows the total sales
+by region. All of this this is shown below. 
 </p>
 <img width="865" alt="Screenshot 2025-05-08 at 3 48 20 AM" src="https://github.com/user-attachments/assets/a8a30ff3-37b4-42fe-8e80-c8fe0fe72c53" />
 
