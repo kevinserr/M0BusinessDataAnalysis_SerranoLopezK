@@ -34,8 +34,11 @@ by region. All of this this is shown below.
 <p><b>Bar Graph using matplotlib:</b></p>
 
 <img src="images/pythonBar.png" alt="bar graph" width="865"/>
+**5. Data Types:** 
+<p>Most of my data types are numeric and quantitative. Since the sales are in decimals, it would be considered
+as continous data. </p>
 
-**5. Conclusion** 
+**6. Conclusion** 
 <p> Moving forward I would like to explore the corelation between the genres with the most sales and crimes in the region. 
   For this I would need an additional data set and a way to directly compare the two sets. </p>
 <b>Three Things I learned</b>
