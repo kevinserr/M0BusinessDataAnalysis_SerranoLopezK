@@ -1,5 +1,5 @@
 import pandas as pd # imports the pandas library
-import matplotlib.pyplot as plt # import lib from graphing
+import matplotlib.pyplot as plt # import lib for graphing
 
 # reads the csv file and creates a pandas.dataframe named vgsales
 vgsales = pd.read_csv('data/vgsales.csv')
