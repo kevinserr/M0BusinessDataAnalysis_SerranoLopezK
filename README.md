@@ -1,6 +1,6 @@
 # Business Data Analysis
 
-**Business Scenario & Problem :**
+**1.Business Scenario & Problem :**
 
 <p>I work for a video game company. Recently we have seen a decline in sales. I've been 
 tasked with finding ways to maximize our sales through targeted marketing. I have a
@@ -31,6 +31,18 @@ the sales by region. </p>
 <p><b>Bar Graph using matplotlib:</b></p>
 
 <img src="images/pythonBar.png" alt="bar graph" width="865"/>
+
+**5. Conclusion** 
+<p> Moving forward I would like to explore the corelation between the genres with the most sales and crimes in the region. 
+  For this I would need an additional data set and a way to directly compare the two sets. </p>
+<b>Three Things I learned</b>
+<p>
+  * Got git works remotely and the importance of making sure I am only making changes in one place
+  * How to use matplotlib to create graphics
+  * How to use pandas to manipulate data from a csv file
+</p>
+
+
 
 
 
