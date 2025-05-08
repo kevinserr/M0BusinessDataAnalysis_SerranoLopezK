@@ -38,8 +38,8 @@ the sales by region. </p>
 <b>Three Things I learned</b>
 <p>
   * Got git works remotely and the importance of making sure I am only making changes in one place
-  * How to use matplotlib to create graphics
-  * How to use pandas to manipulate data from a csv file
+  <br>* How to use matplotlib to create graphics
+  <br>* How to use pandas to manipulate data from a csv file
 </p>
 
 
