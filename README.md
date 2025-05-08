@@ -17,7 +17,10 @@ dataset with a breakdown of sales by region and genre.  <p>
 and genres as rows. From this we can see how much a particular genre sold and in which region it was most successful.
 Using sum I calculated the total sales per genre and region. From this table I was able to create a bar chart
 showing the number of sales per genre regardless of region.</p>
+<p><b>Pivot table:</b></p>
 <img width="865" alt="Screenshot 2025-05-07 at 3 59 35 PM" src="https://github.com/user-attachments/assets/4e74b89a-4df7-44cb-bcc7-b1d2afd422cf" />
+<p><b>Bar Graph using Excel:</b></p>
+<img width="717" alt="Screenshot 2025-05-08 at 4 34 06 AM" src="https://github.com/user-attachments/assets/8cd66ce5-5183-4d1b-b0e6-bca1d362cb50" />
 
 **4. Python Analysis**
 <p>For the python analysis I used pandas to open the csv file and turn it into a DataFrame.
